@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  height: 100vh;
+}
+
+h1 {
+  font-size: 7vw;
+  line-height: 175%;
+  margin-left: 1%;
+  letter-spacing: -8px;
+  text-transform: uppercase;
+}
+
+button {
+  font-size: 3vw;
+  border: none;
+  background-color: transparent;
+  margin-left: 1%;
+  padding: 10px;
+}
+
+button:hover {
+  border: 5px solid;
+}
+
+button:focus {
+  outline: 0;
+}
